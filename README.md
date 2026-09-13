@@ -1,8 +1,6 @@
-# beidou-skills(北斗短剧技能包)
+# beidou-tzb(北斗添装包)
 
-两个 Claude Code 用户级 skill,写短剧分镜用:把"漫画级夸张表情"和"小剧场"装进真人写实短剧。
-
-## 里面有什么
+北斗添装包:给短剧分镜"添"料用的 Claude Code 用户级 skill。目前两件:
 
 | skill | 干什么 |
 |---|---|
